@@ -1,32 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar Chaudhary</h1>
-<h3 align="center">Cybersecurity Enthusiast Passionate about securing digital systems and solving complex security challenges.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Kumar+Chaudhary;Cybersecurity+Enthusiast;B.Tech+CSE+Student+at+LPU;Future+Security+Researcher" />
 
-<image align="right" alt="coding" width="400" src="https://github.com/Sahilku70/Sahilku70/blob/main/It%E2%80%99s%20clear%20that%20cybercrime%20is%20a%20great%20problem%E2%80%A6.gif?raw=true">
+<h3 align="center">🔐 Cybersecurity Enthusiast | B.Tech CSE Student | Linux Lover</h3>
 
-- 🔭 I’m currently working on **.................**
+---
 
-- 🌱 I’m currently learning **- OSCP exam preparation - Metasploit basics - Docker security - Python scripts for hacking**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **.................**
+🎓 B.Tech CSE Student at Lovely Professional University
 
-- 🤝 I’m looking for help with **.................**
+🔐 Learning Cybersecurity & Ethical Hacking
 
-- 👨‍💻 All of my projects are available at [................](................)
+🌱 Currently learning:
+- Networking Fundamentals
+- Linux Administration
+- Web Application Security
+- Python for Security Automation
 
-- 📝 I regularly write articles on [.................](.................)
+💡 Interested in:
+- Penetration Testing
+- OSINT
+- Digital Forensics
+- Network Security
 
-- 💬 Ask me about **.................**
+---
 
-- 📫 How to reach me **sahilku707@gmail.com**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [....................](....................)
+### 🔹 SevaSetu
+Civic Issue Reporting Android Application
 
-- ⚡ Fun fact **....................**
+### 🔹 Loan AI
+Smart Loan Repayment Calculator
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sahil-kumar-chaudhary-a0160529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahil-kumar-chaudhary-a0160529b" height="30" width="40" /></a>
-</p>
+### 🔹 Password Strength Checker
+Real-time Password Security Analysis Tool
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔹 Portfolio Website
+Personal Developer Portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### Security Tools
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+
+Burp Suite • Wireshark • Nmap • Metasploit • Kali Linux
+
+### Development
+![React](https://skillicons.dev/icons?i=react)
+![Nextjs](https://skillicons.dev/icons?i=nextjs)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sahil-Kumar-Chaudhary&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Kumar-Chaudhary)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Kumar-Chaudhary&layout=compact)
+
+---
+
+## 🏆 Certifications
+
+✅ Cisco Introduction to Cybersecurity
+
+✅ Advanced Computer Networks
+
+🚀 Preparing for CompTIA Security+
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Sahil-Kumar-Chaudhary
+- LinkedIn: https://www.linkedin.com/in/sahil-kumar-chaudhary-a0160529b/
+- Portfolio: https://portfolio-mocha-three-29.vercel.app/
+
+---
+
+### 🔥 Quote
+
+> "Security is not a product, it's a process."
