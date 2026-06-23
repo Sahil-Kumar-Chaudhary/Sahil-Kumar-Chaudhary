@@ -86,8 +86,8 @@ Burp Suite • Wireshark • Nmap • Metasploit • Kali Linux
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sahil-Kumar-Chaudhary
-- LinkedIn: https://www.linkedin.com/in/sahil-kumar-chaudhary-a0160529b/
-- Portfolio: https://portfolio-mocha-three-29.vercel.app/
+- LinkedIn: www.linkedin.com/in/sahil-kumar-chaudhary
+- Portfolio: https://sahil-kumar-chaudhary.vercel.app
 
 ---
 
